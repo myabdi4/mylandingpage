@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <div className="flex flex-col items-center lg:mt-20">
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-        Lading page builder{" "}
+        Landing page builder{" "}
         <span className="bg-gradient-to-r from-blue-500 to-green-800 text-transparent bg-clip-text">
           for developers
         </span>
